@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-19T23:28:11.036Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36" etag="1pt6epIGvQKDAdGr7lsw" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-19T23:28:31.165Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36" etag="SRAPknLmrDotdnvf4ldI" version="12.4.3" type="github" pages="1">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="503" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -69,18 +69,6 @@
         <mxCell id="yEhApRfYs8OXAzE_Wprb-50" value="不同意" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="77e6c97f196da883-6">
           <mxGeometry x="20" y="450" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="77e6c97f196da883-7" value="Lane 6" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="800" y="20" width="160" height="730" as="geometry"/>
-        </mxCell>
-        <mxCell id="yEhApRfYs8OXAzE_Wprb-43" value="辞退" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="77e6c97f196da883-7">
-          <mxGeometry x="40" y="260" width="80" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="yEhApRfYs8OXAzE_Wprb-44" value="延长试用期" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="77e6c97f196da883-7">
-          <mxGeometry x="40" y="460" width="80" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="yEhApRfYs8OXAzE_Wprb-45" value="成为正式员工" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="77e6c97f196da883-7">
-          <mxGeometry x="40" y="610" width="80" height="80" as="geometry"/>
-        </mxCell>
         <mxCell id="yEhApRfYs8OXAzE_Wprb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-1" source="yEhApRfYs8OXAzE_Wprb-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="140" as="targetPoint"/>
@@ -136,6 +124,18 @@
         </mxCell>
         <mxCell id="yEhApRfYs8OXAzE_Wprb-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="yEhApRfYs8OXAzE_Wprb-50" target="yEhApRfYs8OXAzE_Wprb-43">
           <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="77e6c97f196da883-7" value="Lane 6" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry x="800" y="20" width="160" height="730" as="geometry"/>
+        </mxCell>
+        <mxCell id="yEhApRfYs8OXAzE_Wprb-43" value="辞退" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="77e6c97f196da883-7">
+          <mxGeometry x="40" y="260" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="yEhApRfYs8OXAzE_Wprb-44" value="延长试用期" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="77e6c97f196da883-7">
+          <mxGeometry x="40" y="440" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="yEhApRfYs8OXAzE_Wprb-45" value="成为正式员工" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="77e6c97f196da883-7">
+          <mxGeometry x="40" y="610" width="80" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
