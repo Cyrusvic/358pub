@@ -1,14 +1,14 @@
-<mxfile host="www.draw.io" modified="2019-12-20T08:39:11.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="bCof-3jA0frrKwVxcfWj" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-20T08:45:35.681Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="JVUH8vGUP4v7BYztPn37" version="12.4.3" type="github" pages="1">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1221" dy="-487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="77e6c97f196da883-1" value="Pool" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=left;" parent="1" vertex="1">
-          <mxGeometry x="8" y="1240" width="810" height="1010" as="geometry"/>
+          <mxGeometry x="8" y="1240" width="810" height="1040" as="geometry"/>
         </mxCell>
         <mxCell id="77e6c97f196da883-2" value="员工" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry y="20" width="160" height="990" as="geometry"/>
+          <mxGeometry y="20" width="160" height="1020" as="geometry"/>
         </mxCell>
         <mxCell id="yEhApRfYs8OXAzE_Wprb-2" value="员工申请提前转正" style="rounded=1;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="20" y="40" width="120" height="60" as="geometry"/>
@@ -16,7 +16,7 @@
         <mxCell id="yEhApRfYs8OXAzE_Wprb-9" value="员工按正常程序转正" style="rounded=1;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="20" y="140" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="yEhApRfYs8OXAzE_Wprb-11" value="员工填写转正申请、试用期小结、个人评价" style="rounded=1;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-2" vertex="1">
+        <mxCell id="yEhApRfYs8OXAzE_Wprb-11" value="员工提交转正申请" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="20" y="280" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="yEhApRfYs8OXAzE_Wprb-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="77e6c97f196da883-1" source="yEhApRfYs8OXAzE_Wprb-15" target="yEhApRfYs8OXAzE_Wprb-17" edge="1">
@@ -39,7 +39,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="77e6c97f196da883-3" value="行政人事部" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="160" y="20" width="160" height="990" as="geometry"/>
+          <mxGeometry x="160" y="20" width="160" height="1020" as="geometry"/>
         </mxCell>
         <mxCell id="yEhApRfYs8OXAzE_Wprb-6" value="试用期满前15天行政人事部通知员工即将转正" style="rounded=1;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-3" vertex="1">
           <mxGeometry x="20" y="140" width="120" height="60" as="geometry"/>
@@ -47,11 +47,11 @@
         <mxCell id="yEhApRfYs8OXAzE_Wprb-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="77e6c97f196da883-3" source="yEhApRfYs8OXAzE_Wprb-17" target="yEhApRfYs8OXAzE_Wprb-23" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="yEhApRfYs8OXAzE_Wprb-17" value="行政人事部找各部门负责人对申请人进行评估并填写员转正审核表" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="77e6c97f196da883-3" vertex="1">
-          <mxGeometry x="20" y="510" width="120" height="80" as="geometry"/>
+        <mxCell id="yEhApRfYs8OXAzE_Wprb-17" value="行政人事部找各部门负责人对申请人进行评估并填写《员工转正评估表》" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="77e6c97f196da883-3" vertex="1">
+          <mxGeometry x="20" y="460" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="yEhApRfYs8OXAzE_Wprb-21" value="行政人事部经理签字审核" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="77e6c97f196da883-3" vertex="1">
-          <mxGeometry x="20" y="850" width="120" height="60" as="geometry"/>
+          <mxGeometry x="20" y="890" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="yEhApRfYs8OXAzE_Wprb-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="77e6c97f196da883-3" source="yEhApRfYs8OXAzE_Wprb-23" target="yEhApRfYs8OXAzE_Wprb-21" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -62,10 +62,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yEhApRfYs8OXAzE_Wprb-23" value="&lt;span style=&quot;white-space: normal;&quot;&gt;行政人事部负责申请人员成绩核算确定是否转正&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="77e6c97f196da883-3" vertex="1">
-          <mxGeometry x="20" y="680" width="120" height="60" as="geometry"/>
+          <mxGeometry x="20" y="590" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="77e6c97f196da883-4" value="部门主管" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="320" y="20" width="180" height="990" as="geometry"/>
+          <mxGeometry x="320" y="20" width="180" height="1020" as="geometry"/>
         </mxCell>
         <mxCell id="yEhApRfYs8OXAzE_Wprb-15" value="部门经理考核" style="rounded=1;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-4" vertex="1">
           <mxGeometry x="40" y="360" width="120" height="60" as="geometry"/>
@@ -74,16 +74,16 @@
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="77e6c97f196da883-6" value="总经理" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="500" y="20" width="150" height="990" as="geometry"/>
+          <mxGeometry x="500" y="20" width="150" height="1020" as="geometry"/>
         </mxCell>
         <mxCell id="yEhApRfYs8OXAzE_Wprb-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="77e6c97f196da883-6" source="yEhApRfYs8OXAzE_Wprb-22" target="yEhApRfYs8OXAzE_Wprb-50" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="yEhApRfYs8OXAzE_Wprb-22" value="总经理签字审批" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="25" y="850" width="90" height="60" as="geometry"/>
+          <mxGeometry x="25" y="890" width="90" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="yEhApRfYs8OXAzE_Wprb-50" value="不同意" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="10" y="710" width="120" height="60" as="geometry"/>
+          <mxGeometry x="10" y="760" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="yEhApRfYs8OXAzE_Wprb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="77e6c97f196da883-1" source="yEhApRfYs8OXAzE_Wprb-26" target="yEhApRfYs8OXAzE_Wprb-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -123,27 +123,26 @@
         <mxCell id="SI57GCV25hCDDYpCB3W0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="yEhApRfYs8OXAzE_Wprb-23" target="yEhApRfYs8OXAzE_Wprb-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="422" y="731"/>
-              <mxPoint x="422" y="611"/>
+              <mxPoint x="690" y="640"/>
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SI57GCV25hCDDYpCB3W0-8" value="不合格" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="SI57GCV25hCDDYpCB3W0-7">
           <mxGeometry x="-0.7964" y="-1" relative="1" as="geometry">
-            <mxPoint x="8.07" y="-0.69" as="offset"/>
+            <mxPoint x="41.59" y="-0.94" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="77e6c97f196da883-7" value="结果" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="650" y="20" width="160" height="990" as="geometry"/>
+          <mxGeometry x="650" y="20" width="160" height="1020" as="geometry"/>
         </mxCell>
         <mxCell id="yEhApRfYs8OXAzE_Wprb-43" value="辞退" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="77e6c97f196da883-7" vertex="1">
-          <mxGeometry x="40" y="550" width="80" height="80" as="geometry"/>
+          <mxGeometry x="40" y="580" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="yEhApRfYs8OXAzE_Wprb-44" value="延长试用期" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="77e6c97f196da883-7" vertex="1">
-          <mxGeometry x="40" y="700" width="80" height="80" as="geometry"/>
+          <mxGeometry x="40" y="750" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="yEhApRfYs8OXAzE_Wprb-45" value="成为正式员工" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="77e6c97f196da883-7" vertex="1">
-          <mxGeometry x="40" y="840" width="80" height="80" as="geometry"/>
+          <mxGeometry x="40" y="880" width="80" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
