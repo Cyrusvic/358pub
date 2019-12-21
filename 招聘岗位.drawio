@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-21T06:25:33.549Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="TCDfRKtI-gaGcR7T0KKX" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-21T06:31:58.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="JYQ_hDz8cgvKk2yFMzOJ" version="12.4.3" type="github" pages="1">
   <diagram id="rEoPbJ--mCGQhtU67ibJ" name="第 1 页">
-    <mxGraphModel dx="619" dy="1179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="898" dy="1338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -533,7 +533,7 @@
         <mxCell id="Fl71wRBjlF6iR6LxpcYb-114" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="1663" y="2645" width="20" height="442.5" as="geometry"/>
         </mxCell>
-        <mxCell id="Fl71wRBjlF6iR6LxpcYb-115" value="&lt;h1&gt;工作内容&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;根据公司需求制定招聘计划并有效实施&lt;/li&gt;&lt;li&gt;管理公司员工档案资料&lt;/li&gt;&lt;li&gt;负责公司员工入职、离职手续办理&lt;/li&gt;&lt;li&gt;制定公司员工&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Fl71wRBjlF6iR6LxpcYb-115" value="&lt;h1&gt;工作内容&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;根据公司需求制定招聘计划并有效实施&lt;/li&gt;&lt;li&gt;管理公司员工档案资料&lt;/li&gt;&lt;li&gt;负责公司员工入职、离职手续办理&lt;/li&gt;&lt;li&gt;制定公司员工发展计划&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1383" y="3040" width="257" height="170" as="geometry"/>
         </mxCell>
       </root>
