@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-21T03:52:38.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="U2WS8abk9FJg-EeNyW1L" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-21T04:18:47.265Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="qpLl1NVrJ6K-81VB2Bt_" version="12.4.3" type="github" pages="1">
   <diagram id="rEoPbJ--mCGQhtU67ibJ" name="第 1 页">
-    <mxGraphModel dx="1497" dy="1679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4490" dy="3382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -108,57 +108,6 @@
         </mxCell>
         <mxCell id="F-7_qr-BvGtvpB1a77cc-73" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-180;" parent="5_B36KdzPEvoYmhDLYBK-181" vertex="1">
           <mxGeometry x="300" y="112.5" width="20" height="312.5" as="geometry"/>
-        </mxCell>
-        <mxCell id="5_B36KdzPEvoYmhDLYBK-182" value="" style="group" parent="1" vertex="1" connectable="0" treatAsSingle="0">
-          <mxGeometry x="1530" y="1010" width="730.5" height="355" as="geometry"/>
-        </mxCell>
-        <mxCell id="5_B36KdzPEvoYmhDLYBK-79" value="&lt;span style=&quot;font-size: 20px&quot;&gt;安保&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="5_B36KdzPEvoYmhDLYBK-182" vertex="1">
-          <mxGeometry y="117.5" width="40" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="5_B36KdzPEvoYmhDLYBK-80" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="5_B36KdzPEvoYmhDLYBK-182" vertex="1">
-          <mxGeometry x="50" y="52.5" width="20" height="250" as="geometry"/>
-        </mxCell>
-        <mxCell id="5_B36KdzPEvoYmhDLYBK-81" value="&lt;font style=&quot;font-size: 16px&quot;&gt;要求&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="5_B36KdzPEvoYmhDLYBK-182" vertex="1">
-          <mxGeometry x="80" y="32.5" width="70" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="5_B36KdzPEvoYmhDLYBK-82" value="&lt;font style=&quot;font-size: 16px&quot;&gt;了解&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="5_B36KdzPEvoYmhDLYBK-182" vertex="1">
-          <mxGeometry x="80" y="272.5" width="70" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="5_B36KdzPEvoYmhDLYBK-83" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="5_B36KdzPEvoYmhDLYBK-182" vertex="1">
-          <mxGeometry x="170" y="2.5" width="20" height="187.5" as="geometry"/>
-        </mxCell>
-        <mxCell id="5_B36KdzPEvoYmhDLYBK-84" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;形象好（拍下照片或者要求对方自带简历附上证件照）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="5_B36KdzPEvoYmhDLYBK-182" vertex="1">
-          <mxGeometry x="200" width="400" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="5_B36KdzPEvoYmhDLYBK-85" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;身高：男175+，女165+&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="5_B36KdzPEvoYmhDLYBK-182" vertex="1">
-          <mxGeometry x="200" y="45" width="330" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="5_B36KdzPEvoYmhDLYBK-86" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;安保能力（具有相关工作经验及证书）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="5_B36KdzPEvoYmhDLYBK-182" vertex="1">
-          <mxGeometry x="200" y="125" width="300" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="5_B36KdzPEvoYmhDLYBK-87" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="5_B36KdzPEvoYmhDLYBK-182" vertex="1">
-          <mxGeometry x="170" y="247.5" width="20" height="105" as="geometry"/>
-        </mxCell>
-        <mxCell id="5_B36KdzPEvoYmhDLYBK-88" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;就业经历&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="5_B36KdzPEvoYmhDLYBK-182" vertex="1">
-          <mxGeometry x="200" y="240" width="360" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="5_B36KdzPEvoYmhDLYBK-89" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;离职原因&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="5_B36KdzPEvoYmhDLYBK-182" vertex="1">
-          <mxGeometry x="200" y="285" width="330" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="5_B36KdzPEvoYmhDLYBK-90" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;职业规划（形象好是否想转业务岗）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="5_B36KdzPEvoYmhDLYBK-182" vertex="1">
-          <mxGeometry x="200" y="335" width="280" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="5_B36KdzPEvoYmhDLYBK-91" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;表达能力OK且没有过重地方口音&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="5_B36KdzPEvoYmhDLYBK-182" vertex="1">
-          <mxGeometry x="200" y="170" width="260" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="5_B36KdzPEvoYmhDLYBK-92" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;align=left;rotation=-180;fontSize=16;" parent="5_B36KdzPEvoYmhDLYBK-182" vertex="1">
-          <mxGeometry x="600" y="7.5" width="20" height="45" as="geometry"/>
-        </mxCell>
-        <mxCell id="5_B36KdzPEvoYmhDLYBK-93" value="要求可比业务岗稍低&lt;br style=&quot;font-size: 16px;&quot;&gt;拍照内部讨论" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="5_B36KdzPEvoYmhDLYBK-182" vertex="1">
-          <mxGeometry x="633.5" y="20" width="150" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="5_B36KdzPEvoYmhDLYBK-106" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;年龄：20~40&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="5_B36KdzPEvoYmhDLYBK-182" vertex="1">
-          <mxGeometry x="200" y="86.25" width="270.5" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="5_B36KdzPEvoYmhDLYBK-186" value="" style="group" parent="1" vertex="1" connectable="0" treatAsSingle="0">
           <mxGeometry x="460" y="1010" width="600" height="355" as="geometry"/>
@@ -429,8 +378,8 @@
         <mxCell id="F-7_qr-BvGtvpB1a77cc-35" value="&lt;h1&gt;薪资待遇&lt;/h1&gt;&lt;p&gt;&lt;ul&gt;&lt;li&gt;业务岗的薪资待遇根据其所在具体级别而定，358pub的薪酬体系是以“多劳多得”的原则制定，招聘时可根据对方的价值高低说出我们大概的薪酬，同时要着重强调我们“多劳多得”的原则。&lt;/li&gt;&lt;li&gt;外地户口且南宁没有房产的员工可享受一年的免费宿舍，且入职后的第12-18月还有每月300的房贴。&lt;/li&gt;&lt;li&gt;享受五险一金&lt;/li&gt;&lt;li&gt;提供员工餐&lt;/li&gt;&lt;li&gt;宿舍卫生阿姨帮忙打扫等&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1540" y="-530" width="240" height="202.5" as="geometry"/>
         </mxCell>
-        <mxCell id="Fl71wRBjlF6iR6LxpcYb-7" value="&lt;h1&gt;招聘思路&lt;/h1&gt;&lt;p&gt;全职歌手的招聘可分为两个方向，分别是会唱歌的服务员和接受服务员工作的弹唱歌手，在此基础上身高形象须达标，面试时注意其表达能力，弹唱演艺方面由专业人员评估。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="990" width="190" height="140" as="geometry"/>
+        <mxCell id="Fl71wRBjlF6iR6LxpcYb-7" value="&lt;h1&gt;招聘思路&lt;/h1&gt;&lt;p&gt;全职歌手的招聘可分为两个方向，分别是会唱歌的服务员和接受服务员工作的弹唱歌手，在此基础上身高形象须达标，面试时注意其表达能力，弹唱演艺方面由专业人员评估，除此之外一律根据服务员标准筛选。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="990" width="190" height="150" as="geometry"/>
         </mxCell>
         <mxCell id="Fl71wRBjlF6iR6LxpcYb-8" value="&lt;h1&gt;薪资待遇&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;条件优异：8k+&lt;/li&gt;&lt;li&gt;条件一般：6k+&lt;/li&gt;&lt;li&gt;条件很一般：4k+&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="1151.2500000000002" width="190" height="122.5" as="geometry"/>
@@ -439,7 +388,73 @@
           <mxGeometry x="140" y="1273.7500000000002" width="230" height="158.75" as="geometry"/>
         </mxCell>
         <mxCell id="Fl71wRBjlF6iR6LxpcYb-10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="410" y="1025" width="20" height="327.5" as="geometry"/>
+          <mxGeometry x="410" y="1025" width="20" height="442.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="Fl71wRBjlF6iR6LxpcYb-43" value="&lt;h1&gt;招聘思路&lt;/h1&gt;&lt;p&gt;安保的招聘对身高形象方面的要求与服务员相似，可稍微放宽标准，专业度上具有相关资格证或有2年以上工作经验优先。面试时注意言谈举止，身高形象满足标准时可考虑转服务员岗。&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="991.25" width="190" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="Fl71wRBjlF6iR6LxpcYb-44" value="&lt;h1&gt;薪资待遇&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;条件优异：8k+&lt;/li&gt;&lt;li&gt;条件一般：6k+&lt;/li&gt;&lt;li&gt;条件很一般：4k+&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="1152.5000000000002" width="190" height="122.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="Fl71wRBjlF6iR6LxpcYb-45" value="&lt;h1&gt;上班时间&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;根据排班表上班，酒吧营业时间是上午10点至次日凌晨2点，员工天上班时间为8个小时&lt;/li&gt;&lt;li&gt;上六休一&lt;/li&gt;&lt;li&gt;法定假期不休，年底集中休假&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="1275.0000000000002" width="230" height="158.75" as="geometry"/>
+        </mxCell>
+        <mxCell id="Fl71wRBjlF6iR6LxpcYb-46" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="1026.25" width="20" height="443.75" as="geometry"/>
+        </mxCell>
+        <mxCell id="5_B36KdzPEvoYmhDLYBK-79" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;安保&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1540" y="1179.33" width="40" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="5_B36KdzPEvoYmhDLYBK-80" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1586.33" y="1120" width="20" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="5_B36KdzPEvoYmhDLYBK-81" value="&lt;font style=&quot;font-size: 16px&quot;&gt;要求&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1616.33" y="1100" width="70" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="5_B36KdzPEvoYmhDLYBK-82" value="&lt;font style=&quot;font-size: 16px&quot;&gt;了解&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1616.33" y="1340" width="70" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="5_B36KdzPEvoYmhDLYBK-83" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1706.33" y="1032.5" width="20" height="187.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="5_B36KdzPEvoYmhDLYBK-84" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;形象好（拍下照片或者要求对方自带简历附上证件照）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1736.33" y="1030" width="400" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="5_B36KdzPEvoYmhDLYBK-85" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;身高：男175+，女165+&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1736.33" y="1075" width="330" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="5_B36KdzPEvoYmhDLYBK-86" value="&lt;font style=&quot;font-size: 16px&quot;&gt;安保能力（具有相关工作经验及资格证书）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1736.33" y="1155" width="340" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="5_B36KdzPEvoYmhDLYBK-87" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1706.33" y="1315" width="20" height="105" as="geometry"/>
+        </mxCell>
+        <mxCell id="5_B36KdzPEvoYmhDLYBK-88" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;就业经历&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1736.33" y="1307.5" width="360" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="5_B36KdzPEvoYmhDLYBK-89" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;离职原因&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1736.33" y="1352.5" width="330" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="5_B36KdzPEvoYmhDLYBK-90" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;职业规划（形象好是否想转业务岗）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1736.33" y="1402.5" width="280" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="5_B36KdzPEvoYmhDLYBK-91" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;表达能力OK且没有过重地方口音&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1736.33" y="1200" width="260" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="5_B36KdzPEvoYmhDLYBK-92" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;align=left;rotation=-180;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="2136.3300000000004" y="1037.5" width="20" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="5_B36KdzPEvoYmhDLYBK-93" value="要求相对业务岗可稍低&lt;br style=&quot;font-size: 16px&quot;&gt;拍照内部讨论" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="2169.8300000000004" y="1050" width="166.5" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="5_B36KdzPEvoYmhDLYBK-106" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;年龄：20~40&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1736.33" y="1116.25" width="270.5" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Fl71wRBjlF6iR6LxpcYb-49" value="&lt;h1&gt;工作内容&lt;/h1&gt;日常工作按照排班表正常上班，非表演时间工作与服务员一致，表演时间登台演艺。&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1420" width="230" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="Fl71wRBjlF6iR6LxpcYb-50" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1&gt;工作内容&lt;/h1&gt;日常工作按照排班表正常上班，上班时配合业务岗做好店内服务待客工作，如遇到或接报店内突发紧急情况时须及时主动处理，并按规定向上级汇报。&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="1410" width="230" height="130" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
