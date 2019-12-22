@@ -1,14 +1,35 @@
-<mxfile host="www.draw.io" modified="2019-12-22T02:17:52.548Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36" etag="Ugn5zBKkTrhA-dV37fs4" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-22T02:34:14.737Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36" etag="tQDfXLByfgZ7NwBYATOo" version="12.4.3" type="github" pages="1">
   <diagram id="XFLZumGhxRqdm-QpVZjw" name="第 1 页">
-    <mxGraphModel dx="710" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="406" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="seUnBZEun3gRnmeXoh-8-1" value="养老&lt;br&gt;保险" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="110" y="100" width="70" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="seUnBZEun3gRnmeXoh-8-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="90" width="20" height="120" as="geometry"/>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="100" width="20" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-8" value="参保范围&amp;amp;缴费" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="90" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-23" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;职工，应参保，公司和职工共同缴纳&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="50" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-27" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;非全职或自由职业，自由参保，个人缴纳&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="80" width="220" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-28" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;公务员，按国务院规定缴纳&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="110" width="150" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-34" value="缴纳时长" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-35" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;达到退休年龄时，累计缴纳15年，按月领取基本养老金&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="338.14" y="150" width="311.86" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-40" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;达到退休年龄时，累计缴纳不满15年&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="190" width="210" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
