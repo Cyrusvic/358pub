@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-22T02:34:14.737Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36" etag="tQDfXLByfgZ7NwBYATOo" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-22T03:01:37.693Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36" etag="94eJF8CSDGnzm0o5Gzw_" version="12.4.3" type="github" pages="1">
   <diagram id="XFLZumGhxRqdm-QpVZjw" name="第 1 页">
-    <mxGraphModel dx="406" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -30,6 +30,66 @@
         </mxCell>
         <mxCell id="seUnBZEun3gRnmeXoh-8-40" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;达到退休年龄时，累计缴纳不满15年&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="190" width="210" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-49" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="seUnBZEun3gRnmeXoh-8-45" target="seUnBZEun3gRnmeXoh-8-35">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-45" value="继续缴满15年" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="190" width="90" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-52" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="seUnBZEun3gRnmeXoh-8-50" target="seUnBZEun3gRnmeXoh-8-51">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-50" value="转入新行农村社会养老保险or城镇居民社会养老保险" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="220" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-51" value="按国务院规定享受养老保险待遇" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="220" width="100" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-53" value="法律依据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="250" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-54" value="《劳动法》" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="338.14" y="230" width="61.86" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-55" value="《社会保险费征缴暂行条例》等" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="338.14" y="250" width="171.86" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-56" value="企业参保&amp;amp;缴费程序" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="310" width="90" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-78" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="seUnBZEun3gRnmeXoh-8-57" target="seUnBZEun3gRnmeXoh-8-58">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-83" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="seUnBZEun3gRnmeXoh-8-57" target="seUnBZEun3gRnmeXoh-8-82">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-57" value="社保机构参保登记" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="310" width="100" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-82" value="提供证件：&lt;br&gt;&lt;ul&gt;&lt;li&gt;营业执照、批准成立证件或其他核准职&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="270" width="190" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-79" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="seUnBZEun3gRnmeXoh-8-58" target="seUnBZEun3gRnmeXoh-8-62">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-58" value="&lt;ul&gt;&lt;li&gt;社保机构核定养老保险缴纳人数、基数、比例&lt;br&gt;&lt;/li&gt;&lt;li&gt;月核定缴纳数额&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="380" width="170" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-80" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="seUnBZEun3gRnmeXoh-8-62" target="seUnBZEun3gRnmeXoh-8-64">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-62" value="&lt;span&gt;到地方税务部门办理缴费&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="460" width="140" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-81" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="seUnBZEun3gRnmeXoh-8-64" target="seUnBZEun3gRnmeXoh-8-66">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-64" value="&lt;span&gt;社保部门根据保险费到账情况记录个人账户&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="530" width="140" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-66" value="&lt;span&gt;社保机构每年打印个人账户清单发给企业和职工&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="620" width="140" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
