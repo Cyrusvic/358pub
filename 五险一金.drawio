@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-22T05:32:33.799Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36" etag="riXFhnLhNP6buMQgQw4E" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-22T05:33:48.729Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36" etag="va0V-t_JIMo1lDSfgurZ" version="12.4.3" type="github" pages="1">
   <diagram id="XFLZumGhxRqdm-QpVZjw" name="第 1 页">
-    <mxGraphModel dx="1673" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -183,21 +183,6 @@
         <mxCell id="seUnBZEun3gRnmeXoh-8-134" value="&lt;ul&gt;&lt;li&gt;基本养老保险手册&lt;br&gt;&lt;/li&gt;&lt;li&gt;个人账户对帐单（对帐单上需加盖社保机构的“养老保险关系转移章”）&lt;br&gt;&lt;/li&gt;&lt;li&gt;本人身份证件&lt;br&gt;&lt;/li&gt;&lt;li&gt;解除或终止劳动关系证明&lt;br&gt;&lt;/li&gt;&lt;li&gt;失业人员的需携带失业保险手册或有关证明&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=12;fontColor=#000000;align=left;" vertex="1" parent="seUnBZEun3gRnmeXoh-8-161">
           <mxGeometry width="210" height="130" as="geometry"/>
         </mxCell>
-        <mxCell id="seUnBZEun3gRnmeXoh-8-162" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="280" y="40" width="570" height="130" as="geometry"/>
-        </mxCell>
-        <mxCell id="seUnBZEun3gRnmeXoh-8-113" value="养老保险缴纳基数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#000000;" vertex="1" parent="seUnBZEun3gRnmeXoh-8-162">
-          <mxGeometry width="130" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="seUnBZEun3gRnmeXoh-8-114" value="&lt;span style=&quot;text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;以职工所在省上年度省社平工资为基准：&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontColor=#000000;" vertex="1" parent="seUnBZEun3gRnmeXoh-8-162">
-          <mxGeometry x="15" y="35" width="230" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="seUnBZEun3gRnmeXoh-8-115" value="&lt;div style=&quot;text-align: left ; font-size: 12px&quot;&gt;&lt;ul&gt;&lt;li&gt;工资收入低于省社平工资60%的，按60%核定缴费基数&lt;br&gt;&lt;/li&gt;&lt;li&gt;高于省社平工资60%的，按实际工资收入核定缴费基数（但是最高不得高于省社平工资的300%）&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" vertex="1" parent="seUnBZEun3gRnmeXoh-8-162">
-          <mxGeometry x="230" y="20" width="340" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="seUnBZEun3gRnmeXoh-8-125" value="&lt;span style=&quot;font-size: 12px; text-indent: 28px; background-color: rgb(255, 255, 255);&quot;&gt;个体劳动者可以在省社平工资以上至300%的范围内，自主确定缴费基数&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontColor=#000000;fontSize=12;" vertex="1" parent="seUnBZEun3gRnmeXoh-8-162">
-          <mxGeometry x="15" y="100" width="445" height="30" as="geometry"/>
-        </mxCell>
         <mxCell id="seUnBZEun3gRnmeXoh-8-168" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="690" y="340.00000000000006" width="590" height="100" as="geometry"/>
         </mxCell>
@@ -230,6 +215,24 @@
         </mxCell>
         <mxCell id="seUnBZEun3gRnmeXoh-8-167" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=12;fontColor=#000000;align=left;" vertex="1" parent="seUnBZEun3gRnmeXoh-8-168">
           <mxGeometry x="54.81" y="10" width="13.33" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-176" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="130" y="60" width="590" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-113" value="养老保险缴纳基数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#000000;" vertex="1" parent="seUnBZEun3gRnmeXoh-8-176">
+          <mxGeometry width="130" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-114" value="&lt;span style=&quot;text-indent: 28px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;以职工所在省上年度省社平工资为基准：&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontColor=#000000;" vertex="1" parent="seUnBZEun3gRnmeXoh-8-176">
+          <mxGeometry x="35" y="35" width="230" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-115" value="&lt;div style=&quot;text-align: left ; font-size: 12px&quot;&gt;&lt;ul&gt;&lt;li&gt;工资收入低于省社平工资60%的，按60%核定缴费基数&lt;br&gt;&lt;/li&gt;&lt;li&gt;高于省社平工资60%的，按实际工资收入核定缴费基数（但是最高不得高于省社平工资的300%）&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" vertex="1" parent="seUnBZEun3gRnmeXoh-8-176">
+          <mxGeometry x="250" y="20" width="340" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-125" value="&lt;span style=&quot;font-size: 12px; text-indent: 28px; background-color: rgb(255, 255, 255);&quot;&gt;个体劳动者可以在省社平工资以上至300%的范围内，自主确定缴费基数&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontColor=#000000;fontSize=12;" vertex="1" parent="seUnBZEun3gRnmeXoh-8-176">
+          <mxGeometry x="35" y="100" width="445" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="seUnBZEun3gRnmeXoh-8-175" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=12;fontColor=#000000;align=left;" vertex="1" parent="seUnBZEun3gRnmeXoh-8-176">
+          <mxGeometry x="20" y="50" width="15" height="70" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
