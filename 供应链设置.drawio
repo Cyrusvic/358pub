@@ -1,1 +1,28 @@
-<mxfile host="www.draw.io" modified="2020-04-15T09:11:23.154Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" version="12.9.12" etag="zR7zKKaLJVbyjmJehD6P" type="github"><diagram id="Urs390GPPBsccYtHii5c">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-04-15T09:14:01.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="Y57p8bUwpwuO1vjbAe8w" version="12.9.12" type="github">
+  <diagram id="Urs390GPPBsccYtHii5c" name="第 1 页">
+    <mxGraphModel dx="898" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NLIfQJDnOiXUHRZX3xRJ-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="340" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NLIfQJDnOiXUHRZX3xRJ-2" value="酒" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="255" y="390" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NLIfQJDnOiXUHRZX3xRJ-3" value="啤酒" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="320" y="330" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NLIfQJDnOiXUHRZX3xRJ-4" value="基酒" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="320" y="370" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NLIfQJDnOiXUHRZX3xRJ-6" value="软饮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="320" y="414" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NLIfQJDnOiXUHRZX3xRJ-7" value="辅料" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="320" y="450" width="50" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
